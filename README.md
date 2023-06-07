@@ -1,7 +1,6 @@
 <h1 align="center">Hola, Soy Adrian Arias</h1>
-<h3 align="center">Desarrollador FullStack de Costa Rica creando y mejorando aplicaciones, Acostumbrado a trabajar con distintos lenguajes de programacion y desarrollo web.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farma23&label=Profile%20views&color=0e75b6&style=flat" alt="farma23" /> </p>
+<h3 align="center">Desarrollador FullStack de Costa Rica.
+ Creando y mejorando aplicaciones, Acostumbrado a trabajar con distintos lenguajes de programacion y desarrollo web.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +13,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ko-fi.com/farma"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi.com/farma" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farma23&show_icons=true&locale=en&layout=compact" alt="farma23" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farma23&show_icons=true&locale=en" alt="farma23" /></p>
