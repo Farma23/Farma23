@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Adrian Arias</h1>
-<h3 align="center">Desarrollador FullStack de Costa Rica mejorando las aplicaciones, Acostumbrado a trabajar con distintos lenguajes de programacion y desarrollo web.</h3>
+<h3 align="center">Desarrollador FullStack de Costa Rica creando y mejorando aplicaciones, Acostumbrado a trabajar con distintos lenguajes de programacion y desarrollo web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farma23&label=Profile%20views&color=0e75b6&style=flat" alt="farma23" /> </p>
 
