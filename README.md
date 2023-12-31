@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Adrian Arias</h1>
-<h3 align="center">Desarrollador FullStack de Costa Rica. Creando y mejorando aplicaciones, Acostumbrado a trabajar con distintos lenguajes de programacion y desarrollo web.</h3>
+<h3 align="center">Estudiante de Ingeniería | Desarrollo Full-Stack | Experto en HTML, CSS, JavaScript, Node.js, PHP, SQL, MySQL | Apasionado por el aprendizaje continuo y el crecimiento en tecnología..</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
